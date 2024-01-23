@@ -1,0 +1,13 @@
+.pic1{
+    background-image: url(pic/download.jpg);
+    height: 25%;
+    width: 25%;
+    display: inline-block;
+    background-repeat:initial ;
+}
+.pic2{
+    background-image: url(pic/download\ \(1\).jpg);
+}
+.pic3{
+    background-image: url(pic/download\ \(2\).jpg);
+}
